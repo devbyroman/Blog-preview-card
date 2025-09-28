@@ -24,7 +24,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog preview card Solution](https://www.frontendmentor.io/solutions/blog-preview-card-eJvZzk8Pho)
 - Live Site URL: [Live Site Vercel](blog-preview-card-five-steel.vercel.app)
 
 ## My process
