@@ -156,3 +156,77 @@ body {
   line-height: 17px;
   color: #232323;
 }
+
+@media (max-width: 375px) {
+
+  .card {
+    width: 327px;
+    border-radius: 14px;
+    box-shadow: 4px 6px 0px 0px rgba(0, 0, 0, 0.70);
+    padding: 0;
+  }
+
+  .card-image {
+    height: 200px;
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-bottom: 24px;
+  }
+
+  .card-content {
+    width: 279px;
+    padding: 0 24px 24px 24px;
+  }
+
+  .card-label-container {
+    margin-bottom: 12px;
+  }
+
+  .card-label {
+    padding: 4px 10px 3px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .card-date-container {
+    margin-bottom: 8px;
+  }
+
+  .card-date {
+    font-size: 11px;
+  }
+
+  .card-title-container {
+    margin-bottom: 8px;
+  }
+
+  .card-title {
+    font-size: 20px;
+    line-height: 24px
+  }
+
+  .card-desc-container{
+    margin-bottom: 24px;
+  }
+
+  .card-desc {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .card-footer {
+    gap: 7px;
+  }
+
+  .card-footer img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .card-footer span {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
