@@ -162,7 +162,8 @@ body {
   .card {
     width: 327px;
     border-radius: 14px;
-    box-shadow: 4px 6px 0px 0px rgba(0, 0, 0, 0.70);
+    box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
+    border: 1.5px solid #222;
     padding: 0;
   }
 
