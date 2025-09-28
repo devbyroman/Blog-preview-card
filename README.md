@@ -15,8 +15,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -27,7 +25,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site Vercel](blog-preview-card-five-steel.vercel.app)
 
 ## My process
 
@@ -36,11 +34,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Responsive Design
 
 
 ### What I learned
 
-I practiced the skills I learned from my previous project in this project. I learned how to connect and work with custom fonts.
+I practiced the skills I learned from my previous project in this project. I learned how to connect and work with custom fonts. Responsive design for mobile and desktop
 
 
 ## Author
